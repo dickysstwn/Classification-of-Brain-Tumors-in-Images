@@ -18,5 +18,5 @@ Pattern Recognition - KOM - DCSE UGM - 2023
 
 ## 📙 Final Project Paper & Presentation Slide
 
-- Paper: https://drive.google.com/file/d/1XLPIAYGi8LDLbHGZ_MGHmA2TdpWfZxi5/view?usp=sharing
-- Slide: https://drive.google.com/file/d/1P59ti2bb4ICqeMbZv6SHaymLxZBT-XTp/view?usp=sharing
+- Paper: [See Paper Here](https://drive.google.com/file/d/1XLPIAYGi8LDLbHGZ_MGHmA2TdpWfZxi5/view?usp=sharing)
+- Slide: [See Slide Here](https://drive.google.com/file/d/1P59ti2bb4ICqeMbZv6SHaymLxZBT-XTp/view?usp=sharing)
