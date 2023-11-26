@@ -17,6 +17,4 @@ Brain tumor is a disease caused by the growth of abnormal tissue in the brain. B
 Pattern Recognition - KOM - DCSE UGM - 2023
 
 ## 📙 Final Project Paper & Presentation Slide
-
-- Paper: [See Paper Here](https://drive.google.com/file/d/1XLPIAYGi8LDLbHGZ_MGHmA2TdpWfZxi5/view?usp=sharing)
 - Slide: [See Slide Here](https://drive.google.com/file/d/1P59ti2bb4ICqeMbZv6SHaymLxZBT-XTp/view?usp=sharing)
